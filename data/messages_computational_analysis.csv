@@ -1,31 +1,31 @@
-﻿Source,Theme,Message Text
-AI,MW,"Every message home matters, but your safety here is just as crucial. Drive first, text later. Your loved ones would agree."
-AI,MW,Hard work brought you to the UAE. don't let a text undo all you've achieved. Stay focused on the road.
-AI,MW,Building dreams in the UAE? Every text while driving risks those dreams. Let's be safe for our families and futures.
-AI,MW,"In the heart of the desert or the city's pulse, the UAE's roads demand respect. One text can change everything. Drive first, chat later."
-AI,MW,We all journey to the UAE for a brighter tomorrow. don't let a text darken that path. Your family and future are worth the wait.
-AI,WD,"You are powerful, elegant, and in control. don't let a text disrupt that grace on the road. Drive now, chat later"
-AI,WD,The UAE celebrates our strength and progress. Let us champion safety too. Prioritize life over a text.
-AI,WD,Striding forward with style and purpose? The road is your runway. Keep it classy and safe. Avoid texting while driving.
-AI,WD,"Your journey, your rules. But remember, in the dance of life, safety always takes the lead. Stay focused."
-AI,WD,The story of UAE women is one of ambition and inspiration. don't let a text interrupt your legacy. Your message and future can wait
-AI,YD,"In the UAE, our heritage is rooted in our sense of pride and responsibility. don't let a text tarnish that. Stay focused on the road."
-AI,YD,"Between the dunes and the skyscrapers, our nation's beauty is unmatched. don't miss it for a text. Your life and the views are too precious."
-AI,YD,"Driving is a privilege, not a time to chat. Remember the spirit of the UAE: respect, integrity, and excellence. Keep the phone down and uphold our values."
-AI,YD,We're the future of the Emirates. Let us not let a text cut that short. Protect our legacy and drive safely.
-AI,YD,"Your destination in our beautiful UAE awaits, but it is not worth the risk of a text. Get there safely and cherish every moment."
-HUM,MW,Think about your family back home. Put down that phone and keep your eyes on the road
-HUM,MW,A text is not worth everything you’ve worked for. Put down your phone - don't text and drive
-HUM,MW,Moussa (44): “I wanted to just send one text to my people at home. Now I lost everything. I say no to texting and driving
-HUM,MW,"Be a multitasker at your workplace, not on the streets. don't text and drive!"
-HUM,MW,Think about everything you have worked for. Your phone can wait - keep your eyes on the road
-HUM,WD,"In a split second, your children will no longer have a mother - don't text and drive"
-HUM,WD,Women are more responsible drivers- they don’t text and drive!
-HUM,WD,Fatima (30): “I just had gotten my new car and was distracted by this one text message. Now my car is a wreck and they’re saying women are bad drivers. I will not text and drive again
-HUM,WD,Protect the people you love and support - don't text and drive
-HUM,WD,Protect your freedom and safety - don't text and drive
-HUM,YD,"In a split second, you could tear a large hole in your parents’ hearts - don't text and drive"
-HUM,YD,Show them that young drivers are better drivers - don’t text and drive
-HUM,YD,"Tarek (21, Dubai): “Us young drivers are the future: It’s on us to change the culture around texting and driving. #itcanwait”"
-HUM,YD,"I ignored those warnings about texting while driving because everyone else was doing it. So I thought it was okay. I thought I was invincible. But clearly, I was completely wrong"
-HUM,YD,"In a split second, you could ruin your future - don't text and drive"
+﻿Source,Theme,Message Text,ReadingEaseScore,HumanClarityRating
+AI,MW,"Every message home matters, but your safety here is just as crucial. Drive first, text later. Your loved ones would agree.",3.1291,4.145299145299146
+AI,MW,Hard work brought you to the UAE. don't let a text undo all you've achieved. Stay focused on the road.,3.1291,3.8974358974358974
+AI,MW,Building dreams in the UAE? Every text while driving risks those dreams. Let's be safe for our families and futures.,3.1291,4.05982906
+AI,MW,"In the heart of the desert or the city's pulse, the UAE's roads demand respect. One text can change everything. Drive first, chat later.",7.16862163,3.786324786324786
+AI,MW,We all journey to the UAE for a brighter tomorrow. don't let a text darken that path. Your family and future are worth the wait.,3.1291,3.8547008547008548
+AI,WD,"You are powerful, elegant, and in control. don't let a text disrupt that grace on the road. Drive now, chat later",3.1291,3.8376068376068377
+AI,WD,The UAE celebrates our strength and progress. Let us champion safety too. Prioritize life over a text.,8.841846275,3.8547008547008548
+AI,WD,Striding forward with style and purpose? The road is your runway. Keep it classy and safe. Avoid texting while driving.,6.4273556,3.641025641025641
+AI,WD,"Your journey, your rules. But remember, in the dance of life, safety always takes the lead. Stay focused.",3.1291,3.675213675213675
+AI,WD,The story of UAE women is one of ambition and inspiration. don't let a text interrupt your legacy. Your message and future can wait,3.1291,3.6495726495726495
+AI,YD,"In the UAE, our heritage is rooted in our sense of pride and responsibility. don't let a text tarnish that. Stay focused on the road.",3.1291,3.735042735042735
+AI,YD,"Between the dunes and the skyscrapers, our nation's beauty is unmatched. don't miss it for a text. Your life and the views are too precious.",3.1291,3.7777777777777777
+AI,YD,"Driving is a privilege, not a time to chat. Remember the spirit of the UAE: respect, integrity, and excellence. Keep the phone down and uphold our values.",7.16862163,3.6837606837606836
+AI,YD,We're the future of the Emirates. Let us not let a text cut that short. Protect our legacy and drive safely.,5.985473137,4
+AI,YD,"Your destination in our beautiful UAE awaits, but it is not worth the risk of a text. Get there safely and cherish every moment.",3.1291,3.8290598290598292
+HUM,MW,Think about your family back home. Put down that phone and keep your eyes on the road,3.1291,4.495726496
+HUM,MW,A text is not worth everything you’ve worked for. Put down your phone - don't text and drive,3.1291,4.230769231
+HUM,MW,Moussa (44): “I wanted to just send one text to my people at home. Now I lost everything. I say no to texting and driving,6.4273556,3.871794872
+HUM,MW,"Be a multitasker at your workplace, not on the streets. don't text and drive!",3.1291,4.213675214
+HUM,MW,Think about everything you have worked for. Your phone can wait - keep your eyes on the road,6.4273556,4.35042735
+HUM,WD,"In a split second, your children will no longer have a mother - don't text and drive",6.4273556,4.316239316
+HUM,WD,Women are more responsible drivers- they don’t text and drive!,8.841846275,3.675213675
+HUM,WD,Fatima (30): “I just had gotten my new car and was distracted by this one text message. Now my car is a wreck and they’re saying women are bad drivers. I will not text and drive again,3.1291,3.666666667
+HUM,WD,Protect the people you love and support - don't text and drive,6.4273556,4.35042735
+HUM,WD,Protect your freedom and safety - don't text and drive,8.841846275,4.401709402
+HUM,YD,"In a split second, you could tear a large hole in your parents’ hearts - don't text and drive",7.793537801,4.333333333
+HUM,YD,Show them that young drivers are better drivers - don’t text and drive,3.1291,3.931623932
+HUM,YD,"Tarek (21, Dubai): “Us young drivers are the future: It’s on us to change the culture around texting and driving. #itcanwait”",8.841846275,3.820512821
+HUM,YD,"I ignored those warnings about texting while driving because everyone else was doing it. So I thought it was okay. I thought I was invincible. But clearly, I was completely wrong",3.1291,3.598290598
+HUM,YD,"In a split second, you could ruin your future - don't text and drive",8.841846275,4.444444444
